@@ -1,5 +1,5 @@
 Working Project:
-http://www.webizly.com/frontend-basic/
+https://chinonsochima.github.io/frontend-2021/
 
 This is based on this tutorial:
 
