@@ -1,4 +1,5 @@
 Working Project:
+![working website screenshot](HW2screenshot.png)
 https://chinonsochima.github.io/frontend-2021/
 
 This is based on this tutorial:
